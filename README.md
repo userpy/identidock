@@ -1,1 +1,2 @@
 # identidock
+docker-compose up
